@@ -139,7 +139,7 @@ st.pyplot(fig)
 
 st.subheader("I want to understand the distribution of sales across different categories, so I plotted a box plot to visualize the spread, median, and outliers for each category")
 
-fig,ax = plt.subplot()
+fig,ax = plt.subplots()
 sns.boxplot(df,x="category", y="sales",hue="category", palette="Set2")
 
 plt.title("Distribution of Sales by Category")
