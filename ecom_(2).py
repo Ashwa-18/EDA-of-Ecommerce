@@ -3,15 +3,7 @@
 
 
 
-**Name** : **Ashwa Asghar**
 
-**Roll No**: **FA23-BST-018**
-
-**Section** : **BST-B**
-
-**Instructor**: **Dr.Noman**
-
-**Title**: **Ecommerce Analysis**
 
 #  Ecommerce Analysis
 
